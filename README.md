@@ -9,8 +9,7 @@ The goal of this project is to arrange the Tetriminos among themselves to make t
 
 Program must display the smallest square solution on the standard output. To identify each Tetriminos in the square solution, you will assign a capital letter (starting with ’A’) to each Tetriminos in the order they appear in the file. A file will contain 26 Tetriminos maximum.
 
-
-To create that library, after downloading/cloning this project, **cd** into the project, copy all the files from the sub folders to the root directory and finally, call make:
+In order to build a project use a Makefile.
 
 ### How does it work?
 
