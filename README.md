@@ -14,9 +14,9 @@ To create that library, after downloading/cloning this project, **cd** into the 
 
 ### How does it work?
 
-git clone https://github.com/LYushan/libft
-cd libft
-make
+	git clone https://github.com/dom0ng/fillit
+	cd fillit
+	make
 
 
 Now to clean up (removing the .o files and the .c files from the root), call `make clean`
